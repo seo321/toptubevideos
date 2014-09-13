@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ 
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_websearch" translatable="false">Web search</string>
+       <string name="app_name" translatable="false">Tube Top Videos</string>
+    <!-- Lista de titulos de navegacion -->
+   
+
+    <string name="title_activity_main" translatable="false">Main</string>
+
+</resources>
